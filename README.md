@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript and TypeScript
 <div>
   <a href="https://github.com/raphavom">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=raphavom&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphavom&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphavom&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
